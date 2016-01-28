@@ -10,9 +10,9 @@
 #date£º2015-8-13 09:28:22
 
 #####################################
-ftp_ip=10.182.17.155
+ftp_ip=
 ftp_user=billapp
-ftp_passwd=B1i4l0l6a2p3p@
+ftp_passwd=
 oracle_sid=cb/cb0120
 
 
