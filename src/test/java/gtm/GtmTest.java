@@ -4,7 +4,6 @@ package gtm;
 import java.util.Date;
 import java.util.concurrent.locks.LockSupport;
 
-import org.junit.jupiter.api.Test;
 
 import com.zistrong.gtm.GtmException;
 import com.zistrong.gtm.Task;
@@ -13,7 +12,7 @@ import com.zistrong.gtm.Work;
 
 class GtmTest {
 
-	@Test
+    
 	void test() {
 		
 

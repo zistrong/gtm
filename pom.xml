@@ -5,6 +5,16 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>gtm</name>
   <description>gtm project</description>
+  
+  <dependencies>
+  <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+            <optional>true</optional>
+        </dependency>
+  </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
